@@ -1,4 +1,4 @@
-# Hi, I am JOONYOUNG PARK 👋
+# I am JOONYOUNG PARK 👋
 
 - 🎓 I am an undergraduate student at [Kookmin University](https://www.kookmin.ac.kr/).
 - 🔬 I am currently an intern at [ISSL](https://issl.korea.ac.kr/people), Korea University.
